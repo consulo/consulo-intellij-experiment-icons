@@ -1,0 +1,8 @@
+<consulo-plugin>
+    <id>consulo.intellij.experiment.icons</id>
+    <name>IntelliJ Experiment Icons</name>
+
+    <tags>
+        <tag>icon.theme</tag>
+    </tags>
+</consulo-plugin>
